@@ -1,5 +1,7 @@
 WeatherBroadcaster.py是主程式
+
 line_notification.py是連接LINE API方法
+
 WeatherGet.py是創建了一個類別，用來取得天氣資料
 
 
